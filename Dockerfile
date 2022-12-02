@@ -18,5 +18,5 @@ RUN mkdir /MessageSearchBot
 WORKDIR /MessageSearchBot
 COPY start.sh /start.sh
 
-# Running MessageSearchBot
+# Running MessageSearchBot 
 CMD ["/bin/bash", "/start.sh"]
