@@ -1,4 +1,5 @@
-# (c) @AM_ROBOTS
+# in & as LazyDeveloper
+# Please Don't Remove Credit
 
 import datetime
 import motor.motor_asyncio

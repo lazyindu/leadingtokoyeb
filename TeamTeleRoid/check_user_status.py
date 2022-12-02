@@ -1,4 +1,5 @@
-# (c) @AM_ROBOTS
+# in & as LazyDeveloper
+# Please Don't Remove Credit
 
 import datetime
 from configs import Config
@@ -23,6 +24,6 @@ async def handle_user_status(bot, cmd):
         ).days > ban_status["ban_duration"]:
             await db.remove_ban(chat_id)
         else:
-            await cmd.reply_text("You Are Ban To Use This Bot.😜", quote=True)
+            await cmd.reply_text("Hello hunter ! I think you are Banned to use me.", quote=True)
             return
     await cmd.continue_propagation()

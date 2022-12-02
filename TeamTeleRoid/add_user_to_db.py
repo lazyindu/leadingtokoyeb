@@ -1,4 +1,5 @@
-# (c) @AM_ROBOTS
+# in & as LazyDeveloper
+# Please Don't Remove Credit
 
 from configs import Config
 from handlers.database import db
