@@ -28,7 +28,7 @@ async def start_handler(_, event: Message):
 	await event.reply_photo("https://telegra.ph/file/2b160d9765fe080c704d2.png",
                                 caption=Config.START_MSG.format(event.from_user.mention),
                                 reply_markup=InlineKeyboardMarkup([
-                                    [InlineKeyboardButton("🔺 Donate us 🔺", url="upi://pay?pa=7808912076@paytm&pn=INTKHAB AHMAD &cu=INR")],
+                                    [InlineKeyboardButton("🔺 Donate us 🔺", url="upi://pay?pa=7808912076@paytm")],
                                     [InlineKeyboardButton("⚡️ LazyDeveloper ⚡️", url="https://t.me/LazyDeveloper")],
                                     [InlineKeyboardButton("🤒Help", callback_data="Help_msg"),
                                     InlineKeyboardButton("🦋About", callback_data="About_msg")]]))
