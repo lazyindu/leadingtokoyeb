@@ -62,6 +62,6 @@ Don't be sad ! Your all urls are in safe Hand.
 💸<b>Donate us to Keep Alive💸</b>
 »» A small amount of ₹5 - ₹20 - ₹50 - ₹100 will be great help !
 
-        🔺 Thank You 🔺 
+            🔺 Thank You 🔺 
 """
 
