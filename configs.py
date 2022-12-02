@@ -21,16 +21,11 @@ class Config(object):
         <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
-
+🤖 My Name: <a href='https://t.me/LazyUrlHunterrBOT'>Lazy URL Hunterr</a>
 📝 Language: <a href='https://www.python.org'>Python V3</a>
-
 📚 Library: <a href='https://docs.pyrogram.org'>Pyrogram</a>
-
 📡 Server: <a href='https://heroku.com'>Heroku</a>
-
 📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
-
 👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
 """
 
@@ -49,7 +44,7 @@ Go to @BotFather to change settings.
 
 Don't be sad ! Your all urls are in safe Hand.
 
-»»» <b>Happy Hunting</b> «««
+       »»» <b>Happy Hunting</b> «««
 
 🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
 """
@@ -62,11 +57,11 @@ I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give
 
 Don't be sad ! Your all urls are in safe Hand.
 
-   »»»» <b>Happy Hunting</b> ««««
+     »»»» <b>Happy Hunting</b> ««««
 
 💸<b>Donate us to Keep Alive💸</b>
 »» A small amount of ₹5 - ₹20 - ₹50 - ₹100 will be great help !
 
-🔺 Thank You 🔺 
+        🔺 Thank You 🔺 
 """
 
