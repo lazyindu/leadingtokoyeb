@@ -57,7 +57,7 @@ I'm the one and only fastest URL & post finder BOT. Add me to any Group and Give
 
 Don't be sad ! Your all urls are in safe Hand.
 
-     »»»» <b>Happy Hunting</b> ««««
+     »»»» <b>Happy Hunting</b> «««« </b>
 
 💸<b>Donate us to Keep Alive💸</b>
 »» A small amount of ₹5 - ₹20 - ₹50 - ₹100 will be great help !
